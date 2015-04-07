@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeaconBasic</string>
+    <string name="hello_round">No Beacons Detected</string>
+    <string name="hello_square">No Beacons Detected</string>
+</resources>

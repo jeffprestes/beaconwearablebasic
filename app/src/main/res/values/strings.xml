@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeaconBasic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_monitoring">Beacon Monitoring</string>
+    <string name="notificationArrivedAtBeaconRegionTitle">Beacon Basic</string>
+    <string name="notificationArrivedAtBeaconRegionText">There is a Beacon near by you</string>
+    <string name="notificationLeavedAtBeaconRegionTitle">Beacon Basic</string>
+    <string name="notificationLeavedAtBeaconRegionText">There is not a Beacon in this region</string>
+</resources>
